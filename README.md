@@ -16,4 +16,3 @@ Este proyecto es una calculadora desarrollada en **Android Studio** utilizando *
 
 Autora
 Laila Santana
-⭐ Este proyecto forma parte de mi portafolio de desarrollo Android.
