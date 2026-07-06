@@ -13,6 +13,7 @@ Este proyecto es una calculadora desarrollada en **Android Studio** utilizando *
 - Android Studio
 - Git
 - GitHub
+
 Autora
 Laila Santana
 ⭐ Este proyecto forma parte de mi portafolio de desarrollo Android.
