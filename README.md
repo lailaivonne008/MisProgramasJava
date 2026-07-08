@@ -6,13 +6,12 @@ Este proyecto es una calculadora desarrollada en **Android Studio** utilizando *
 - ✖ Multiplicación
 - ➗ División
 - 🧹 Limpiar pantalla
-- 📱 Interfaz gráfica personalizada
 
 🛠️ Tecnologías utilizadas
 - Java
 - Android Studio
 - Git
 - GitHub
-- 
+  
 Autora
 Laila Santana
